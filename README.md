@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <h1>A Swift app I imagined and developed back in 2018. </h1><br>
+  <span>A Swift app I imagined and developed back in 2018. </span><br>
   <br>
   <p>It analyzes cryptocurrency markets and helps you follow and trade your assets. </p><br>
   <br>
