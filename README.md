@@ -1,6 +1,6 @@
 # CryptoGO
 
-A Swift app I imagined and developed, that analyzes cryptocurrency markets and helps you trade assets.
+A Swift app I imagined and developed back in 2018. It analyzes cryptocurrency markets and helps you follow and trade your assets.
 
 Checkout the business plan included in the repo to learn more about the project's core development.
 
