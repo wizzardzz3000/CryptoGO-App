@@ -12,6 +12,8 @@
   <span>Checkout the business plan included in the repo to learn more about the project's core development. </span><br>
   <br>
   <span>In the last weeks I worked on CryptoGO, the project was in a position to receive a 50,000$ investment from a private     investor, before I stepped back and joined 42 Paris to study coding in further depth. </span><br>
+  <br>
+  <span>I am currently in the midst of implementing machine learning to the algorithm. </span><br>
 </p>
 <br>
 
