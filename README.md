@@ -1,5 +1,6 @@
-<p align="center"> 
-  <b># CryptoGO</b>
+# CryptoGO
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/31767776/68088828-19d33400-fe63-11e9-8249-f0f9f34a56a4.png">
 </p>
 
