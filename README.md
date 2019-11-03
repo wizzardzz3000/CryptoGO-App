@@ -4,13 +4,14 @@
   <img src="https://user-images.githubusercontent.com/31767776/68088828-19d33400-fe63-11e9-8249-f0f9f34a56a4.png">
 </p>
 
-A Swift app I imagined and developed back in 2018. 
+<p align="center">
+  <b>A Swift app I imagined and developed back in 2018. </b><br>
+   <b>It analyzes cryptocurrency markets and helps you follow and trade your assets. </b><br>
+   <b>Checkout the business plan included in the repo to learn more about the project's core development. </b><br>
+   <b>In the last weeks I worked on CryptoGO, the project was in a position to receive a 50,000$ investment from a private investor, before I stepped back and joined 42 Paris to study coding in further depth. </b><br>
 
-It analyzes cryptocurrency markets and helps you follow and trade your assets.
-
-Checkout the business plan included in the repo to learn more about the project's core development.
-
-In the last weeks I worked on CryptoGO, the project was in a position to receive a 50,000$ investment from a private investor, before I stepped back and joined 42 Paris to study coding in further depth.
+</p>
+<br>
 
 ![CryptoGO screens](https://user-images.githubusercontent.com/31767776/68083193-90057580-fe26-11e9-962a-972f67d33e9b.png)
 
