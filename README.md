@@ -1,5 +1,7 @@
 # CryptoGO
 
+![iPhonexSMALL](https://user-images.githubusercontent.com/31767776/68088828-19d33400-fe63-11e9-8249-f0f9f34a56a4.png)
+
 A Swift app I imagined and developed back in 2018. 
 
 It analyzes cryptocurrency markets and helps you follow and trade your assets.
