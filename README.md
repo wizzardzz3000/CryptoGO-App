@@ -7,11 +7,11 @@
 <p align="center">
   <span>A Swift app I imagined and developed back in 2018. </span><br>
   <br>
-  <p>It analyzes cryptocurrency markets and helps you follow and trade your assets. </p><br>
+  <span>It analyzes cryptocurrency markets and helps you follow and trade your assets. </span><br>
   <br>
-  <p>Checkout the business plan included in the repo to learn more about the project's core development. </p><br>
+  <span>Checkout the business plan included in the repo to learn more about the project's core development. </span><br>
   <br>
-  <p>In the last weeks I worked on CryptoGO, the project was in a position to receive a 50,000$ investment from a private     investor, before I stepped back and joined 42 Paris to study coding in further depth. </p><br>
+  <span>In the last weeks I worked on CryptoGO, the project was in a position to receive a 50,000$ investment from a private     investor, before I stepped back and joined 42 Paris to study coding in further depth. </span><br>
 </p>
 <br>
 
