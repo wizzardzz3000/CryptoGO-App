@@ -4,6 +4,8 @@ A Swift app I imagined and developed, that analyzes cryptocurrency markets and h
 
 Checkout the business plan included in the repo to learn more about the project's core development.
 
+In the last weeks I worked on CryptoGO, the project was in a position to receive a 50,000$ investment from a private investor.
+
 ![CryptoGO screens](https://user-images.githubusercontent.com/31767776/68083193-90057580-fe26-11e9-962a-972f67d33e9b.png)
 
 # Resume of the original app marketing
