@@ -32,7 +32,7 @@ The app is designed to look great on every Apple’s portable device screen size
 - Automatic currency setup based on user location. You can also set a preferred currency in the settings window.
 - The app uses many of Swift’s best practice features including Core Data and UITableViews.
 
-- What’s next?
+## What’s next?
 - Algorithm improvement with machine learning.
 - Analyzing of every major cryptocurrency.
 - Dynamic rewards based on user accuracy and pertinence.
