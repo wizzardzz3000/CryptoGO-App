@@ -5,11 +5,13 @@
 </p>
 
 <p align="center">
-  <b>A Swift app I imagined and developed back in 2018. </b><br>
-   <b>It analyzes cryptocurrency markets and helps you follow and trade your assets. </b><br>
-   <b>Checkout the business plan included in the repo to learn more about the project's core development. </b><br>
-   <b>In the last weeks I worked on CryptoGO, the project was in a position to receive a 50,000$ investment from a private investor, before I stepped back and joined 42 Paris to study coding in further depth. </b><br>
-
+  <p>A Swift app I imagined and developed back in 2018. </p><br>
+  <br>
+  <p>It analyzes cryptocurrency markets and helps you follow and trade your assets. </p><br>
+  <br>
+  <p>Checkout the business plan included in the repo to learn more about the project's core development. </p><br>
+  <br>
+  <p>In the last weeks I worked on CryptoGO, the project was in a position to receive a 50,000$ investment from a private     investor, before I stepped back and joined 42 Paris to study coding in further depth. </p><br>
 </p>
 <br>
 
