@@ -9,8 +9,6 @@
   <br>
   <span>It analyzes cryptocurrency markets and helps you follow and trade your assets. </span><br>
   <br>
-  <span>Checkout the business plan included in the repo to learn more about the project's core development. </span><br>
-  <br>
   <span>In the last weeks I worked on CryptoGO, the project was in a position to receive a 50,000$ investment from a private     investor, before I stepped back and joined 42 Paris to study coding in further depth. </span><br>
   <br>
   <span>I am currently in the midst of implementing machine learning to the algorithm. </span><br>
@@ -22,6 +20,7 @@
 <br>
 
 # Resume of the original marketing (2018)
+Checkout the business plan included in the repo to learn more about the project's core development.
 
 ## Advanced analyzing algorithm built in
 The app embarks a complex mathematical algorithm that analyses cryptocurrency markets. A combination of reputable trading indicators (like the Relative Strength Index and Ichimoku Clouds) methods and modern intelligence adapted to crypto provides precise buy-and-sell indicators. We are currently working on developing a more sophisticated machine learning algorithm to allow CryptoGO to learn by itself and adjust it’s previsions.
