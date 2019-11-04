@@ -21,7 +21,7 @@
 
 <br>
 
-# Resume of the original marketing
+# Resume of the original marketing (2018)
 
 ## Advanced analyzing algorithm built in
 The app embarks a complex mathematical algorithm that analyses cryptocurrency markets. A combination of reputable trading indicators (like the Relative Strength Index and Ichimoku Clouds) methods and modern intelligence adapted to crypto provides precise buy-and-sell indicators. We are currently working on developing a more sophisticated machine learning algorithm to allow CryptoGO to learn by itself and adjust it’s previsions.
